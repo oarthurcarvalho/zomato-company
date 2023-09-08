@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="2000px" alt="Zomato Logo" src="/img/zomato-logo.png">
+</div>
+
 # 1. Problema de Negócio
 
 A empresa Zomato é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Zomato, que disponibiliza informações como endereço, tipo de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos do restaurante, dentre outras informações.
