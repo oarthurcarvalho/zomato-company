@@ -37,7 +37,10 @@ A estratégia para resolver o problema de negócio envolve as seguintes etapas:
 
 Dashboard online, hospedado em Cloud e disponível para acesso em qualquer dispositivo conectado a internet.
 
-O painel pode ser acessado através do [link]([image/](https://zomato-company-oarthurcarvalho.streamlit.app/)).
+<a href="https://zomato-company-oarthurcarvalho.streamlit.app/" target="_blank">
+    <img src="img/botao-dashboard.png" alt="Link" height="80" style="padding-top: 10px; padding-botton: 20px;">
+</a>
+
 
 # 6. Conclusão
 
